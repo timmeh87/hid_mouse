@@ -1,0 +1,1 @@
+A basic mouse for the holtek 32 bit 52xxx series CPU and pixart sensor
